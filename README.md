@@ -1,4 +1,4 @@
-# Life-Expectancy-Predictor
+# llSPS-INT-2171-Predicting-Life-Expectancy-using-Machine-Learning
 Predicting Life Expectancy using Machine Learning
 
 The repository contains the following:
